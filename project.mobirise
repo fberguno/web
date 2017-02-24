@@ -130,10 +130,10 @@
           "_name": "header2",
           "_anchor": "header2-6",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "29",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/insta-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/insta-2.gif",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -141,8 +141,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#7e9b9f",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -153,7 +153,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x842.jpg",
               "link": "",
               "alt": "",
               "title": "",
